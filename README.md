@@ -1,7 +1,4 @@
-
-
-
-![Todolist](https://github.com/user-attachments/assets/c03e57ef-7581-4793-ad8d-efea626961d2)
+![Todolist](https://github.com/user-attachments/assets/1087e991-fe7d-4654-a433-5936c21e704d)
 # Hello World with React boilerplate
 
 Start coding a react application
