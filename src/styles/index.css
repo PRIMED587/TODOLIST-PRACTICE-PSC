@@ -1,0 +1,8 @@
+.icono {
+    visibility: hidden;
+
+}
+
+li:hover > * {
+    visibility: visible;
+}
